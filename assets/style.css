@@ -34,7 +34,7 @@ ul, ol {
 }
 .container{width:min(1120px,92%);margin-inline:auto}.site-header{position:sticky;top:0;z-index:50;background:rgba(10,27,42,.70);backdrop-filter:saturate(180%) blur(10px);border-bottom:1px solid var(--border)}
 .nav-wrap{display:flex;align-items:center;justify-content:space-between;padding:12px 0}.brand{display:flex;gap:10px;align-items:center;color:var(--text);text-decoration:none;font-weight:700}
-.logo{height:120px;max-height:18vw;width:auto;display:block}.nav{display:flex;gap:18px;list-style:none;margin:0;padding:0}.nav a{color:var(--text);text-decoration:none;opacity:.9}.nav a:hover{opacity:1;color:var(--brand)}
+.logo{height:120px;max-height:none;width:auto;display:block}.nav{display:flex;gap:18px;list-style:none;margin:0;padding:0}.nav a{color:var(--text);text-decoration:none;opacity:.9}.nav a:hover{opacity:1;color:var(--brand)}
 .nav-toggle{display:none;background:transparent;border:1px solid var(--border);color:var(--text);padding:6px 10px;border-radius:10px}
 .hero{padding:80px 0 48px;display:grid;grid-template-columns:1.35fr 1fr;gap:36px;align-items:center}.hero h1{font-size:clamp(28px,5vw,54px);line-height:1.1;margin:0 0 14px}
 .hero p.lead{font-size:clamp(16px,2vw,20px);color:var(--muted);margin:0 0 24px}.kpis{display:grid;grid-template-columns:repeat(3,1fr);gap:14px;margin-top:18px}
